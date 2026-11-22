@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Temporary / testing screenshots
+*.png
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
